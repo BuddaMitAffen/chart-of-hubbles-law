@@ -8,4 +8,4 @@ Anschließend muss https://127.0.0.1:8050 im Browser aufgerufen werden.
 
 Bugs: 
 - Bei Eingabe durch den Zahlenstrahl muss zuerst die Eingabe im Eingabefenster gelöscht werden 
-- pipDie Vergrößerung/Verkleinerungen des Plots werden bei Veränderung der Eingabe auf den Standardwert zurückgesetzt
+- Die Vergrößerung/Verkleinerungen des Plots werden bei Veränderung der Eingabe auf den Standardwert zurückgesetzt
