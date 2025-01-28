@@ -6,5 +6,6 @@ Der Plot ist in Python mit DASH geschrieben. Zum Ausführen kann also entweder d
 
 Anschließend muss https://127.0.0.1: im Browser aufgerufen werden.
 
-Bugs: - Bei Eingabe durch den Zahlenstrahl muss zuerst die Eingabe im Eingabefenster gelöscht werden
-      - Die Vergrößerung/Verkleinerungen des Plots werden bei Veränderung der Eingabe auf den Standardwert zurückgesetzt
+Bugs: 
+- Bei Eingabe durch den Zahlenstrahl muss zuerst die Eingabe im Eingabefenster gelöscht werden 
+- pipDie Vergrößerung/Verkleinerungen des Plots werden bei Veränderung der Eingabe auf den Standardwert zurückgesetzt
